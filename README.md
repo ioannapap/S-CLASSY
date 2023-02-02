@@ -1,5 +1,5 @@
 # S-CLASSY
-Discovering Rule Lists with Preferred Variables
+Discovering Rule Lists with Preferred Variables (S-CLASSY)
 
 This repository contains the code for using preferred variables to discover Hybrid Rule Lists (HRL) for univariate or multivariate classification in Data Mining. These models use the Minimum Description Length (MDL) principle as selection criterion.
 
