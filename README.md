@@ -20,3 +20,7 @@ pip install -r requirements.txt
 - Run the file.
 
 
+## References
+   
+[1] Proença, H.M., Grünwald, P., Bäck, T., van Leeuwen, M.: Robust subgroup discovery. Data Mining and Knowledge Discovery 36(5), 1885–1970 (2022)
+[2] Proença, H.M., van Leeuwen, M.: Interpretable multiclass classification by MDL-based rule lists. Information Sciences 512, 1372–1393 (2020)
