@@ -15,7 +15,7 @@ pip install -r requirements.txt
 
 ## Execution guide
 
-- Open: run_S-CLASSY.ipynb or run_S-CLASSY_cross_validation.ipynb in the Jupyter Notebook dashboard by clicking on the name of the file in the dashboard.
+- Open: `run_S-CLASSY.ipynb` or `run_S-CLASSY_cross_validation.ipynb` in the Jupyter Notebook dashboard by clicking on the name of the file in the dashboard.
 - Update the configurations regarding the datasets tha you want to load (for more info read the comments in the .ipynb file).
 - Run the file.
 
